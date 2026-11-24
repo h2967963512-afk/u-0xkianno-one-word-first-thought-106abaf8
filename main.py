@@ -10,6 +10,8 @@ Python 3.13, standard library only, no network.
 # pleasant sound that rewards a second look — the judge's criteria,
 # in order. No explanation, no second draft: the first word that
 # came to mind, written as-is.
+# Revision note: re-read the gate after running; the word is lowercase,
+# 8 characters, no trailing newline.
 import os
 
 TEXT = "apricity"
